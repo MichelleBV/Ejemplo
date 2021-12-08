@@ -1,0 +1,34 @@
+VARIABLES;;;;;;;;;;;;;;;;;;;;;;;;;;;TOTAL
+topografía;1;;;1;1;1;1;;1;;1;1;1;1;1;;;1;1;1;1;;1;1;;;18
+geología - litología;1;1;;1;1;1;;;1;;1;;1;1;1;;;1;1;1;1;;;1;1;;17
+precipitación;1;;;1;;1;1;1;;1;;;;1;;1;;;1;;;;1;1;;;12
+pendiente;;;1;;1;;;;;;;1;;;1;1;;1;;;1;;;1;1;;10
+aspecto;1;1;1;1;1;;1;;1;;1;;1;;1;1;;1;;1;1;;;1;1;;17
+uso de tierra;1;1;;;1;1;;;1;;;;1;;1;;;;1;1;;;1;;;;11
+indice vegetación;1;;;;;;;;1;;;;1;;1;;;1;;1;;;;;;;7
+tipo de suelo;1;1;;;;;1;1;;;;;;;;;;;;;;;;;;;5
+distancia a las fallas;;;;;1;1;;;;;;;1;;;;;;;1;;;;;1;1;7
+distancia a límites geológicos;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+plano de curvatura;;1;1;1;1;1;1;;1;;1;1;1;;;;;1;;1;1;;;;1;1;16
+perfil de curvatura;;1;1;1;1;1;1;;1;;1;1;1;;;;;1;;1;1;;;;1;1;16
+índice de humedad topográfica;;1;;;1;1;;;1;;1;1;;;;;;;;;1;;;;;1;9
+radiación superficial;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+densidad de población;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+distancia al río;;;1;;;;1;;1;;;;;;;;;;;;;;;;;1;5
+densidad a drenaje;1;;;;;;1;;;;;;;;;;;;;;;;;;;;3
+distancia a drenajes;1;;;1;;;;;;;;;1;;;;;;;;;;;;;;4
+distancia a la carretera ;;;1;1;;1;;;1;;;;;;;;;;;;;;;;1;1;7
+distancia a los arroyos;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+corteza erosionada;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+indice de transporte de sedimentos;;;;;1;;;;;;;;;;;;;;;;;;;;;;2
+radiación solar anual;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+índice de potencia de la corriente;;;;;1;;;;;;;;;;;;;;;;;;;;;;2
+Sobrecarga;;;1;;;;;;;;;;;;;;;;;;;;;;;;2
+área de captación;;;;;;1;;;;;1;;1;;;;;;;;;;;;;;4
+Geomorfología;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+Profundidad de valle;;;;;1;1;;;;;;;;;;;;;;;;;;;;;3
+índice de posición del terreno (TPI);;;;;;1;;;;;;;;;;;;;;;;;;;;;2
+índice de rugosidad del terreno (TRI);;;;;;1;;;;;;;;;;;;;;;;;;;;;2
+índice de convergencia de taludes;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+longitud de pendiente;;;;;;1;;;;;;;;;;;;;;1;;;;;;;3
+densidad de camino;;;;;;;;;;;;;;;;;;;;;;;;;;;1

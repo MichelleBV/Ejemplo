@@ -1,0 +1,26 @@
+MÉTODOS;TOTAL
+Regresión logística;5
+Máquina de vectores de soporte;11
+Bosque aleatorio;11
+Red neuronal artifical (ANN);5
+Regresión logística binaria;1
+Perceptrón multicapa;1
+Red neuronal de retropropagación;2
+Árboles de decisión ;2
+Spline de regresión adaptativa multivariante;1
+Análisis Discriminante cuadrático ;1
+Análisis Discriminante Lineal;1
+Naive Bayes;3
+Boosted árbol de regresión ;1
+XGBoost;2
+Regresión de vectores de soporte (SVR);1
+Red de memoria a largo y corto plazo (LSTM);1
+Maquina de aprendizaje extremo (ELM);1
+ Clasificación de vectores de soporte de mínimos cuadrados (LSSVC);1
+Algoritmo de murciélago (BA), denominado BA-LSSVC;1
+La red neuronal de función de base radial basada en el bosque de rotación (RFRBF);1
+Entropía máxima (MaxEnt);1
+modelo lineal generalizado (GLM);2
+árboles de regresión impulsados ??(BRT);1
+modelos aditivos generalizados (GAM);1
+AdaBoost;1

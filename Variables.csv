@@ -1,0 +1,32 @@
+VARIABLE;TOTAL;TIPO;;;T_TIPO
+uso de tierra;11;Cobertura terrestre;;;
+indice vegetación;7;Cobertura terrestre;;;
+tipo de suelo;5;Cobertura terrestre;;;32
+distancia a la carretera ;7;Cobertura terrestre;;;
+Sobrecarga;2;Cobertura terrestre;;;
+geología - litología;17;Geológica;;;
+distancia a las fallas;7;Geológica;;;25
+distancia a límites geológicos;1;Geológica;;;
+topografía;18;Geomorfologica;;;
+pendiente;10;Geomorfologica;;;
+aspecto;17;Geomorfologica;;;
+plano de curvatura;16;Geomorfologica;;;
+perfil de curvatura;16;Geomorfologica;;;
+índice de humedad topográfica;9;Geomorfologica;;;97
+Profundidad de valle;3;Geomorfologica;;;
+índice de posición del terreno (TPI);2;Geomorfologica;;;
+índice de rugosidad del terreno (TRI);2;Geomorfologica;;;
+índice de convergencia de taludes;1;Geomorfologica;;;
+longitud de pendiente;3;Geomorfologica;;;
+distancia al río;5;Hidrológica ;;;
+densidad a drenaje;3;Hidrológica ;;;
+distancia a drenajes;4;Hidrológica ;;;
+distancia a los arroyos;1;Hidrológica ;;;19
+índice de potencia de la corriente;2;Hidrológica ;;;
+área de captación;4;Hidrológica ;;;
+precipitación;12;Meteorológica;;;
+radiación superficial;1;Meteorológica;;;14
+radiación solar anual;1;Meteorológica;;;
+densidad de población;1;Otras;;;
+corteza erosionada;1;Otras;;;4
+indice de transporte de sedimentos;2;Otras;;;
